@@ -160,7 +160,7 @@ Senha:
 Brayan Miyamura
 
 LinkedIn:
-(adicione depois)
+https://www.linkedin.com/in/brayan-miyamura
 
 GitHub:
 https://github.com/Bramura
